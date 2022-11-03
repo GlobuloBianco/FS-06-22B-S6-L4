@@ -1,0 +1,3 @@
+@mixin margine ($specifica, $valore) {
+    margin-#{$specifica}:$valore;
+}
